@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: Arial, sans-serif;
+    background-color: #bcf0d893;
+    color: #333;
+    line-height: 1.6;
+    padding: 20px;
+}
+
+nav li {
+    list-style: none;
+    display: inline;
+    margin-left: 20px;
+    align-items:center;
+    justify-content: center ;
+}
+
+nav li a:hover{
+    color: red;
+}
+
+nav li a{
+    text-decoration: none;
+    color: black;
+}
+
+main section{
+    margin-top: 20px;
+    margin-bottom:20px ;
+}
+
+main .figure-image{
+    margin-top: 20px;
+    text-align: center;
+
+}
